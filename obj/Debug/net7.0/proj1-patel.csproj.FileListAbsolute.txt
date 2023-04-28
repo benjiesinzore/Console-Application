@@ -1,0 +1,15 @@
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/bin/Debug/net7.0/proj1-patel
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/bin/Debug/net7.0/proj1-patel.deps.json
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/bin/Debug/net7.0/proj1-patel.runtimeconfig.json
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/bin/Debug/net7.0/proj1-patel.dll
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/bin/Debug/net7.0/proj1-patel.pdb
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.csproj.AssemblyReference.cache
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.AssemblyInfoInputs.cache
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.AssemblyInfo.cs
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.csproj.CoreCompileInputs.cache
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.dll
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/refint/proj1-patel.dll
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.pdb
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/proj1-patel.genruntimeconfig.cache
+/Users/shivangpatel/Desktop/Nishi/proj1-patel/proj1-patel/obj/Debug/net7.0/ref/proj1-patel.dll
